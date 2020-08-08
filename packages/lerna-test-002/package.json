@@ -1,0 +1,16 @@
+{
+  "name": "lerna-test-002",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "extend2": "^1.0.0",
+    "lerna-test-001": "^1.0.0"
+  }
+}
