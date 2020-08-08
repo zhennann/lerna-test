@@ -21,7 +21,7 @@ docs/**/contributing.md
 docs/public
 docs/plugins.png
 
-package-lock.json
+
 yarn.lock
 
 .sync-config.cson
