@@ -12,5 +12,6 @@
   "dependencies": {
     "extend2": "^1.0.0",
     "lerna-test-001": "^1.0.5"
-  }
+  },
+  "gitHead": "122031a729019a06efee5a2b7ee48c2091602a84"
 }
