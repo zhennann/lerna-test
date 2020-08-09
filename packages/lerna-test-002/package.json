@@ -1,6 +1,6 @@
 {
   "name": "lerna-test-002",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "extend2": "^1.0.0",
-    "lerna-test-001": "^1.0.5"
+    "lerna-test-001": "^1.0.6"
   },
   "gitHead": "122031a729019a06efee5a2b7ee48c2091602a84"
 }
